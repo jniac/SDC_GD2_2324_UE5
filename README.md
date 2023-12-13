@@ -1,3 +1,5 @@
+# ⚠️ NOUVEAU PROJET V2 [ICI](https://github.com/jniac/SDC_GD2_2324_UE5_V2/)
+
 # SDC_GD2_2324_UE5
 
 Developed with Unreal Engine 5 (true)
